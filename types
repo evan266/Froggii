@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Amazing rats</title>
+    <meta charset = "utf-8" />
+    <link href = "cssfiles/navigation.css" rel="stylesheet" type="text/css" />
+        <link href = "cssfiles/species.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<!--wrapper börjar-->
+    <div class="wrapper">
+    <header class="header">
+      <h1>Species</h1>
+    </header>
+    <header class="mainmenu">
+       <ul class="navbar">
+          <li><a href="index.html">Home</a></li>
+            <li><a href="habitat.html">Habitat</a></li>
+            <li><a href="species.html">Species</a></li>
+            <li><a href="facts.html">Facts</a></li>
+        </ul>
+    </header>
+          <div class="rightcol">
+      <p1>
+          Learn more about Black and Wood rats, by following the links!
+      </p1> 
+         <div class="wrapper_2col">
+    <div class="leftcol">
+    </div>
+             <div class="flex-container">
+  <div class="flex-rat one ">
+       <p><img src="pictures/blackratop.jpg" height="200" width="400" alt="Rat in the grass"/ class= center>
+      </p> 
+       <li> <a href="specieone.html">Black rat</a></li>
+  </div>
+  <div class="flex-rat two">
+       <p><img src="pictures/woodrat.jpg" height="200" width="400" alt="Rat between two flowers"/ class= center>
+      </p>  
+        <li> <a href="specietwo.html">Wood rat</a></li>
+  </div>
+</div>
+    <div class="wrapper_2col">
+    <div class="leftcol">
+      <p1>
+   </p1> 
+      
+    </div>
+    <div class="rightcol">
+      <div class="push"></div>
+    </div><!--rightcol slutar-->
+    </div><!--wrapper2col slutar-->
+    <footer class="footer">
+      <p>All rights reserved - &#169; Copyright</p>
+    </footer>
+    </div><!--wrapper slutar-->
+  </body>
+</html>

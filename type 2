@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Amazing rats</title>
+    <meta charset = "utf-8" />
+    <link href = "cssfiles/navigation.css" rel="stylesheet" type="text/css" />
+        <link href = "cssfiles/specietwo.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+
+  
+    
+    
+    <div class="wrapper">
+    <header class="header">
+      <h1>Wood rat </h1>
+    </header>
+    <header class="mainmenu">
+       <ul class="navbar">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="habitat.html">Habitat</a></li>
+            <li><a href="species.html">Species</a></li>
+            <li><a href="facts.html">Facts</a></li>
+        </ul>
+    </header>
+           
+      <p1>
+     Wood rats, also known as packrats can be any rat in the species of the rodent genus Neotoma. These rats have a common rat appearance, but tend to be noticeably larger than other deer and cotton mice.
+    The greatest diversity of rats exists in the  deserts of the western United States and northern Mexico. Wood rats can live anywhere from low, hot deserts to cold and rocky habitats. 
+    These rats, as many others are nest builders and are particullary drawn to shiny objects.    
+    </p1> 
+</div>  
+        <div class=column>
+  <center>   <p><img src="pictures/woodratoptim.jfif" height="200" width="200" alt="Rat on a tree"/>
+      </p> </center>   
+</div>  
+      <p>
+      </p> 
+         <div class="wrapper_2col">
+    <div class="leftcol">
+    </div><!--leftcol slutar-->
+    <div class="rightcol">
+      <div class="push"></div>
+    </div><!--rightcol slutar-->
+    </div><!--wrapper2col slutar-->
+    <footer class="footer">
+      <p>All rights reserved - &#169; Copyright</p>
+    </footer>
+    </div><!--wrapper slutar-->
+  </body>
+</html>

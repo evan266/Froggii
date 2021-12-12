@@ -1,0 +1,9 @@
+
+.flex-container {
+    display: flex;
+    align-items:space-evenly; 
+    justify-content: space-evenly; 
+     background-color:space-evenly; 
+}
+
+.flex-rat one {

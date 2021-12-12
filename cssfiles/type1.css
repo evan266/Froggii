@@ -1,0 +1,30 @@
+body {
+	 
+	background-color: lavender;
+}
+
+.flex-container {
+    display: flex;
+   align-items:space-evenly; 
+    justify-content:space-evenly; 
+     background-color: #FFFEF7 ; 
+}
+
+.flex-rat {
+    align-items:space-evenly; 
+    justify-content:space-evenly; 
+    flex: 1;
+    border: 5px solid #ffdae0; 
+       background-color:  #FFFEF7 ; 
+}  
+
+.flex-child:first-rat {
+    align-items:center; 
+    justify-content: center; 
+    margin-right: 20px;
+       background-color:  #FFFEF7; 
+} 
+
+p1 {
+    font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+}

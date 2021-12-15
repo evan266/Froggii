@@ -2,8 +2,12 @@
     list-style-type: none;
     margin:0;
     padding: 0; 
+    background-color: #224D06; 
+    position: fixed;
+    top: 0; 
+    width: 100%;
     overflow: hidden;
-    background-color: #6b5b95; 
+    margin: 0;
 
 }
 .navbar li{
@@ -13,10 +17,10 @@
     display: block;
     color: white; 
     text-align: center;
-padding: 14px 16px;
-text-decoration: none;
+    padding: 14px 16px;
+    text-decoration: none;
 }
 .navbar li a:hover{
-    background-color:#878f99; 
+    background-color:#62A137; 
 }
-.navbar {position: fixed; top: 0; width: 100%;}
+

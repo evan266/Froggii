@@ -1,48 +1,44 @@
-body {
-	 
-	background-color: lavender;
-}
 .list-image {
-	list-style: none;
-	padding-left: 0;
-	}
-	.list-image li {
-	position: relative;
-	padding-left: 30px;
-	line-height: 170%;
-         font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
-	}
-	.list-image li:before {
-	  content: '';
-	width: 20px;
-	height: 20px;
-	position: absolute;
-	background-image: url('pictures/animals.png');
-	background-size: cover;
-	background-position: center;
-	left: 0;
-	top: 50%;
-	transform: translateY(-50%);
-		  font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+    list-style: none;
+    padding-left: 0;
+}
+.list-image li {
+    position: relative;
+    padding-left: 30px;
+    line-height: 170%;
+    font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+}
+.list-image li:before {
+    content: '';
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    background-image: url('pictures/animals.png');
+    background-size: cover;
+    background-position: center;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 
-	}
+}
 
 .flex-container {
     display: flex;
     justify-content: space-evenly; 
 }
 
-.flex-rat one {
-    
+.flex-frog one {
+
     flex: 1;
     border: 5px solid #ffdae0; 
-       background-color: #fadbde; 
+    background-color: #fadbde; 
 }  
 
-.flex-rat two {
-      
+.flex-frog two {
+
     margin-right: 20px;
-       background-color: #fadbde; 
+    background-color: #fadbde; 
 } 
 © 2021 GitHub, Inc.
 Terms

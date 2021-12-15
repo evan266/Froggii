@@ -1,0 +1,27 @@
+
+.flex-container {
+    display: flex;
+    align-items:space-evenly; 
+    justify-content: space-evenly; 
+    border: 4px solid; 
+    border-color: #224D06;
+    border-corner-shape: scoop; 
+}
+
+.flex-frog one {
+    border: 4px solid;
+    background-color: #fadbde; 
+    border-color: #224D06;
+}  
+
+.flex-frog two {
+    border: 4px solid;
+    margin-right: 20px;
+    background-color: #fadbde; 
+    border-color: #224D06;
+} 
+
+
+li {
+    background-color: milk white;
+}  

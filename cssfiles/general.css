@@ -1,6 +1,20 @@
 body
 {
     background-color:#BFDFA9;
+    
+    <style>
+.content {
+  max-width: 500px;
+  margin: auto;
+}
+</style>
+<body>
+
+<div class="content">
+  <!-- Page content -->
+</div>
+
+</body>
 
 </body>
 }

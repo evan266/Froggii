@@ -10,8 +10,10 @@ body
            width: 80%;
            margin: 100px auto 0px auto;
            padding: 20px 20px 20px 20px;
-     }
-</style>
+
+    <div id="wrapper">
+      <!-- all your page content in here -->
+    </div>
 
 </body>
 }

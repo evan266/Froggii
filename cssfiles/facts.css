@@ -28,21 +28,16 @@
     justify-content: space-evenly; 
 }
 
-.flex-frog one {
+.flex-frog_one {
 
     flex: 1;
-    border: 5px solid #ffdae0; 
-    background-color: #fadbde; 
+    border: 5px solid #224D06; 
+    background-color: #BFDFA9; 
 }  
 
-.flex-frog two {
+.flex-frog_two {
 
     margin-right: 20px;
-    background-color: #fadbde; 
+    background-color: #BFDFA9; 
 } 
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
 

@@ -4,16 +4,17 @@
     align-items:space-evenly;
     justify-content:space-evenly;
     background-color:#ffd1dc;
+        border-color: #224D06;
 }
-.flex-rat one
+.flex-frogone
 {
     flex:1;
-    border:5px solid #ffdae0;
-    background-color:#FDF2E1,
+    border:5px solid #224D06;
+    background-color:#FDF2E1;
 }
-.flex- rat two
+.flex-frogtwo
 {
-    border:5px solid #ffdae0;
+    border:5px solid #224D06;
     margin-right:20px;
     background-color:#FDF2E1;
 }

@@ -3,19 +3,20 @@
     display:flex;
     align-items:space-evenly;
     justify-content:space-evenly;
-    background-color:#BFDFA9
+    background-color:#BFDFA9;
         border-color: #224D06;
 }
 .flex-frogone
 {
     flex:1;
     border:5px solid #224D06;
-    background-color:#FDF2E1;
+    margin-left:20px;
+    background-color:#BFDFA9;
 }
 .flex-frogtwo
 {
     border:5px solid #224D06;
     margin-right:20px;
-    background-color:#FDF2E1;
+    background-color:#BFDFA9;
 }
 

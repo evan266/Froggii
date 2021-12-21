@@ -2,12 +2,12 @@
 p1 {
     font-size: 18px; 
     font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
-    background-color: white; 
+    
 
 }  
 img {
-    width: 200px;
-    border: 5px dashed white;
+    width: 400px;
+   
 }
 
 @media (min-width: 600px) {

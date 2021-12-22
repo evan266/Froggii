@@ -1,26 +1,4 @@
-.flex-container
-{
-    display:flex;
-    align-items: center;
-    justify-content:space-evenly;
-    background-color:#BFDFA9;
-        border-color: #224D06;
-}
-.flex-frogone
-{
-    flex:1;
-    border:5px solid #224D06;
-    margin-left:20px;
-    justify-content: center;
-    background-color:#BFDFA9;
-}
-.flex-frogtwo
-{
-    border:5px solid #224D06;
-    margin-right:20px;
-    justify-content: center;
-    background-color:#BFDFA9;
-}
+
 .row {
   display: flex;
 }
